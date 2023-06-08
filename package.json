@@ -1,0 +1,15 @@
+{
+  "name": "typeditor-mini",
+  "version": "1.0.0",
+  "description": "A mini file editor made with typescript and ChatGPT.",
+  "main": "build/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nando AM",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.2.5",
+    "typescript": "^5.1.3"
+  }
+}
